@@ -26,10 +26,11 @@ The cost of the model being wrong can be quite severe if any financial decisions
 
 
 ### Outcomes
-* What do you expect the output to look like?
-* What does your target audience expect the output to look like?
-* What gain do you expect from your most important feature on its own?
-* How complicated does your model have to be?
-* How successful does your project have to be in order to be considered a "success"?
-* What will you do if the project is a bust (this happens! but it shouldn't here)?
+I expect that the output won’t reveal anything profound as most of as the variables are pretty closely related.  However, I do expect that there will be a clear difference in efficacy of indicator signal based on market environments which will serve as the most valuable feature.  That said, I will have to identify and categorize market environments appropriately to get quality results.  
+
+I’m not quite sure how complicated the project will have to get.  I believe I will have a better understanding once I have a chance to explore the data.
+
+If the project is a bust, I will likely find another subject to explore because there are so many tools that have been discussed for which I would like to apply in an experiment.
+
+
 
